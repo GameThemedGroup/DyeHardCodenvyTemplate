@@ -8,6 +8,6 @@ import Engine.GameWindow;
 public class Run extends GameWindow{
 
 	public Run(){
-		setRunner(new Demo0());
+		setRunner(new MyGame());
 	}
 }
